@@ -5,4 +5,5 @@ add_subdirectory (lasym_test)
 add_subdirectory (orientation_test)
 add_subdirectory (reset_test)
 add_subdirectory (sum_atan_test)
+add_subdirectory (becoil_test)
 
